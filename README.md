@@ -1,7 +1,7 @@
 # My First GitHub Repo
 
 This code will live on GitHub
-U use these tools:
+use these tools:
 
 - Git
 - GitHub
